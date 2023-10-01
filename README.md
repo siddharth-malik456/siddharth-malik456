@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on graphic designing and react
+I am currently working on socketio
 
 
 ## 🌐 Socials:
