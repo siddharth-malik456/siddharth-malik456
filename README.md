@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Machine learning and Data Structures and Algorithms
+I'm currently working on Machine learning and Back-end Web Devlopment
 
 
 ## 🌐 Socials:
